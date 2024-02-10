@@ -32,3 +32,9 @@
 *　ユーザー検索機能
 *　チャット機能(WebSocket)
 *　通知機能
+
+### 使用技術
+JavaScript
+Ruby on Rails
+WebSocket
+Amazon Personalize
